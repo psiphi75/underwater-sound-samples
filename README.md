@@ -10,9 +10,9 @@ The samples are referenced in this paper:
 
 These samples are sourced from https://soundtags.wp.st-andrews.ac.uk/dtags/audio_compression/audio-samples/
 
- - (GI16.flac)[samples/GI16.flac]
- - (GI60.flac)[samples/GI60.flac]
- - (GR48.flac)[samples/GR48.flac]
- - (LI192.flac)[samples/LI192.flac]
- - (NO96.flac)[samples/NO96.flac]
- - (PI240.flac)[samples/PI240.flac]
+ - [GI16.flac](samples/GI16.flac)
+ - [GI60.flac](samples/GI60.flac)
+ - [GR48.flac](samples/GR48.flac)
+ - [LI192.flac](samples/LI192.flac)
+ - [NO96.flac](samples/NO96.flac)
+ - [PI240.flac](samples/PI240.flac)
